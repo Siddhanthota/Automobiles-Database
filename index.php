@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Ambika Patidar (437aadef) - Autos Database</title>
+<title>Siddhant's DB</title>
 <?php include "bootstrap.php"; ?>
 </head>
 <body>
